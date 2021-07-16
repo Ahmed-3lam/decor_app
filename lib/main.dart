@@ -1,4 +1,5 @@
 import 'package:decor_app/Home_Screen.dart';
+import 'package:decor_app/SecondScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
