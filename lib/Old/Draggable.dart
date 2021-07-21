@@ -23,10 +23,7 @@ List<Widget> dragItems =[
   Container(),
   Container(),
 ];
-var drop1= DragBox1(Offset(0.0, 0.0), 'Box Two', Colors.orange);
-var drop2= DragBox2(Offset(150.0, 0.0), 'Box Two', Colors.orange);
-var drop3= DragBox3(Offset(300.0, 0.0), 'Box Three', Colors.lightGreen);
-var drop4= DragBox4(Offset(300.0, 0.0), 'Box Three', Colors.lightGreen);
+
 class _DraggableItem1State extends State<DraggableItem1> {
 
 
